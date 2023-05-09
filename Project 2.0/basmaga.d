@@ -1,0 +1,1 @@
+.\basmaga.o: basmaga.c
