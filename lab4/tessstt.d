@@ -1,0 +1,12 @@
+.\tessstt.o: tessstt.c
+.\tessstt.o: tm4c123gh6pm.h
+.\tessstt.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\tessstt.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\tessstt.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\tessstt.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\tessstt.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\tessstt.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\tessstt.o: LCD.h
+.\tessstt.o: systick.h
+.\tessstt.o: GPIO.h
+.\tessstt.o: bit_utilies.h
