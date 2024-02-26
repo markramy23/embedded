@@ -1,1 +1,0 @@
-.\lcddd.o: lcddd.c
